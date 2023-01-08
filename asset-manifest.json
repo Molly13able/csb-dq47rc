@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://molly13able.github.io/csb-dq47rc/static/css/main.d441a470.chunk.css",
+    "main.js": "https://molly13able.github.io/csb-dq47rc/static/js/main.613407e6.chunk.js",
+    "main.js.map": "https://molly13able.github.io/csb-dq47rc/static/js/main.613407e6.chunk.js.map",
+    "runtime-main.js": "https://molly13able.github.io/csb-dq47rc/static/js/runtime-main.dd5b6482.js",
+    "runtime-main.js.map": "https://molly13able.github.io/csb-dq47rc/static/js/runtime-main.dd5b6482.js.map",
+    "static/js/2.a0ff5233.chunk.js": "https://molly13able.github.io/csb-dq47rc/static/js/2.a0ff5233.chunk.js",
+    "static/js/2.a0ff5233.chunk.js.map": "https://molly13able.github.io/csb-dq47rc/static/js/2.a0ff5233.chunk.js.map",
+    "index.html": "https://molly13able.github.io/csb-dq47rc/index.html",
+    "static/css/main.d441a470.chunk.css.map": "https://molly13able.github.io/csb-dq47rc/static/css/main.d441a470.chunk.css.map",
+    "static/js/2.a0ff5233.chunk.js.LICENSE.txt": "https://molly13able.github.io/csb-dq47rc/static/js/2.a0ff5233.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd5b6482.js",
+    "static/js/2.a0ff5233.chunk.js",
+    "static/css/main.d441a470.chunk.css",
+    "static/js/main.613407e6.chunk.js"
+  ]
+}
